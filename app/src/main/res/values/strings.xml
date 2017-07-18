@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="search_hint">Search</string>
+    <string name="search_title">Search News</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_results">No results</string>
+    <string name="trailText_key">trailText</string>
+    <string name="byline_key">byline</string>
+    <string name="thumbnail_key">thumbnail</string>
+</resources>
